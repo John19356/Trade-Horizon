@@ -1,0 +1,325 @@
+{
+    "1517951657953071255": {
+        "config": {
+            "currency_name": "Flops",
+            "currency_emoji": "\ud83c\udfaf",
+            "starting_balance": 0,
+            "admin_role": 1552533871764045854,
+            "log_channel": 1574092008279244800
+        },
+        "players": {
+            "1518970464935084145": {
+                "balance": 1,
+                "username": "69idk_"
+            },
+            "1512742949887414392": {
+                "balance": 0
+            },
+            "1421835488808931441": {
+                "balance": 0
+            },
+            "205253839933145088": {
+                "balance": 0
+            },
+            "1464521897076326637": {
+                "balance": 0
+            },
+            "1538459213939081289": {
+                "balance": 2,
+                "username": "light_w0.2"
+            },
+            "984972945250218014": {
+                "balance": 3,
+                "username": "neyzanyadpro5590"
+            },
+            "1449846546869780520": {
+                "balance": 5,
+                "username": "demongonza"
+            },
+            "1165558976625246290": {
+                "balance": 0,
+                "username": "daksh_here."
+            },
+            "1498985862082596978": {
+                "balance": 1,
+                "username": "travius_john"
+            },
+            "1242367453091074101": {
+                "balance": 1,
+                "username": "rip_indra06998"
+            }
+        },
+        "leaderboard": {
+            "active": true,
+            "settings": {
+                "display_limit": 10,
+                "leaderstat": "balance",
+                "duration": "6d",
+                "color": "#6E00A1",
+                "title": "<:Leaderboard:1574256648757710968> Weekly Leaderboard",
+                "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>"
+            },
+            "channel_id": 1574072125482991626,
+            "message_id": 1574264697883066401,
+            "ends_at": 1795922750,
+            "participants": {
+                "1538459213939081289": 2,
+                "984972945250218014": 3,
+                "1449846546869780520": 5,
+                "1518970464935084145": 1,
+                "1165558976625246290": 0,
+                "1498985862082596978": 1,
+                "1242367453091074101": 1
+            },
+            "history": [
+                {
+                    "settings": {
+                        "display_limit": 10,
+                        "leaderstat": "balance",
+                        "duration": "1m",
+                        "color": "#90EE90",
+                        "title": "Test",
+                        "subtitle": "gg",
+                        "description": "gg"
+                    },
+                    "participants": {},
+                    "rankings": [],
+                    "duration": "1m",
+                    "ended_at": "2026-11-22T15:34:38.687307+00:00",
+                    "end_reason": "timer"
+                },
+                {
+                    "settings": {
+                        "display_limit": 5,
+                        "leaderstat": "balance",
+                        "duration": "1m",
+                        "color": "#90EE90",
+                        "title": "test",
+                        "subtitle": "test",
+                        "description": "test"
+                    },
+                    "participants": {
+                        "1518970464935084145": 10,
+                        "1512742949887414392": 2
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 10
+                        },
+                        {
+                            "user_id": "1512742949887414392",
+                            "score": 2
+                        }
+                    ],
+                    "duration": "1m",
+                    "ended_at": "2026-11-22T15:36:23.694866+00:00",
+                    "end_reason": "timer"
+                },
+                {
+                    "settings": {
+                        "display_limit": 5,
+                        "leaderstat": "balance",
+                        "duration": "1m",
+                        "color": "#90EE90",
+                        "title": "Coin Leaderboard",
+                        "subtitle": "Highest coins",
+                        "description": "Get the highest coins as soon as possible before it ends"
+                    },
+                    "participants": {
+                        "1518970464935084145": 1,
+                        "1512742949887414392": 1
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 1
+                        },
+                        {
+                            "user_id": "1512742949887414392",
+                            "score": 1
+                        }
+                    ],
+                    "duration": "1m",
+                    "ended_at": "2026-11-22T15:39:18.691319+00:00",
+                    "end_reason": "timer"
+                },
+                {
+                    "settings": {
+                        "display_limit": 5,
+                        "leaderstat": "balance",
+                        "duration": "1m",
+                        "color": "#90EE90",
+                        "title": "Coin Leaderboard",
+                        "subtitle": "Highest coins",
+                        "description": "Get the highest coins as soon as possible before it ends"
+                    },
+                    "participants": {},
+                    "rankings": [],
+                    "duration": "1m",
+                    "ended_at": "2026-11-22T15:45:33.824151+00:00",
+                    "end_reason": "manual"
+                },
+                {
+                    "settings": {
+                        "display_limit": 5,
+                        "leaderstat": "balance",
+                        "duration": "1m",
+                        "color": "#90EE90",
+                        "title": "Test <a:loading_loading_loading:1571593515048239287>",
+                        "subtitle": "Get the Highest <a:1556885822593044540:1572990509142777947>",
+                        "description": "Idk what to say so blah blah blah blah blah blah blah blah blah blahblah blah blah blah blahblah blah blah blah blahblah blah blah blah blahblah blah blah blah blah<:nitro3:1571605480374141043>  blah"
+                    },
+                    "participants": {
+                        "1518970464935084145": 1,
+                        "1512742949887414392": 20
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1512742949887414392",
+                            "score": 20
+                        },
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 1
+                        }
+                    ],
+                    "duration": "1m",
+                    "ended_at": "2026-11-22T15:49:13.510044+00:00",
+                    "end_reason": "timer"
+                },
+                {
+                    "title": "1",
+                    "subtitle": "1",
+                    "description": "1",
+                    "duration": "1m",
+                    "started_at": null,
+                    "ended_at": 1795362855,
+                    "reason": "timer",
+                    "participants": {},
+                    "rankings": []
+                },
+                {
+                    "title": "Weekly Leaderboard",
+                    "subtitle": "Flopping Leaderboard",
+                    "description": "Get the most highest flop in the server.",
+                    "duration": "1d",
+                    "started_at": null,
+                    "ended_at": 1795402887,
+                    "reason": "manual",
+                    "participants": {
+                        "1518970464935084145": 3,
+                        "1512742949887414392": 1,
+                        "1421835488808931441": 1
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 3
+                        },
+                        {
+                            "user_id": "1512742949887414392",
+                            "score": 1
+                        },
+                        {
+                            "user_id": "1421835488808931441",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "<:Leaderboard:1574256648757710968> # Weekly Leaderboard",
+                    "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                    "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>",
+                    "duration": "7d",
+                    "started_at": null,
+                    "ended_at": 1795402924,
+                    "reason": "manual",
+                    "participants": {},
+                    "rankings": []
+                },
+                {
+                    "title": "<:Leaderboard:1574256648757710968> # Weekly Leaderboard",
+                    "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                    "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>",
+                    "duration": "7d",
+                    "started_at": null,
+                    "ended_at": 1795403119,
+                    "reason": "manual",
+                    "participants": {},
+                    "rankings": []
+                },
+                {
+                    "title": "<:Leaderboard:1574256648757710968>  Weekly Leaderboard",
+                    "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                    "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>",
+                    "duration": "7d",
+                    "started_at": null,
+                    "ended_at": 1795403260,
+                    "reason": "manual",
+                    "participants": {
+                        "1518970464935084145": 1
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "<:Leaderboard:1574256648757710968> Weekly Leaderboard",
+                    "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                    "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>",
+                    "duration": "7d",
+                    "started_at": null,
+                    "ended_at": 1795403497,
+                    "reason": "manual",
+                    "participants": {
+                        "1518970464935084145": 1
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "<:Leaderboard:1574256648757710968>  Weekly Leaderboard",
+                    "subtitle": "\u231b Week 1 (Nov 22 - Nov 29)\u23f3",
+                    "description": "<a:greentick:1563129873592221831> Race against the clock to rack up as many flops as you can before the time limit runs out! Push your score to the absolute limit\u2014whoever finishes in 1st place with the highest total will take home the grand prize of a +1 Role! <a:Trophy:1574257681068466279>",
+                    "duration": "7d",
+                    "started_at": null,
+                    "ended_at": 1795403950,
+                    "reason": "manual",
+                    "participants": {
+                        "1518970464935084145": 1,
+                        "205253839933145088": 1,
+                        "1512742949887414392": 1,
+                        "1464521897076326637": 1
+                    },
+                    "rankings": [
+                        {
+                            "user_id": "1518970464935084145",
+                            "score": 1
+                        },
+                        {
+                            "user_id": "205253839933145088",
+                            "score": 1
+                        },
+                        {
+                            "user_id": "1512742949887414392",
+                            "score": 1
+                        },
+                        {
+                            "user_id": "1464521897076326637",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
